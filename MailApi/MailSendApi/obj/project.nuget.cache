@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "OVJDy2v840ePzd6UncgU5+9u+586+QOIebcz5MSys4qfbBp042KzuKn+n3FoFNpbwTDX9si2s8Q0+c0Jnz0yLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sahug\\Desktop\\MailApi\\MailSendApi\\MailSendApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sahug\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\sahug\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\sahug\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\sahug\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\sahug\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\sahug\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
